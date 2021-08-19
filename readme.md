@@ -1,5 +1,5 @@
 <div align="center" id="top">
-  <img src="https://github.com/krishdevdb/todoing/raw/main/Todoing.png">
+  <img height="100" src="https://github.com/krishdevdb/todoing/raw/main/Todoing.png">
   <br><h1>Todoing</h1><h5>Making To-Do tasks To-Doing</h5>
 </div>
 

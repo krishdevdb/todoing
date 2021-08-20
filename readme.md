@@ -27,7 +27,7 @@
 
 ## Get Support
 
-> This project has a [code of conduct](https://github.com/krishdevdb/todoing/blob/main/.github/code_of_conduct.md).
+> This project has a [code of conduct](https://github.com/krishdevdb/todoing/blob/main/code_of_conduct.md).
 > By interacting with this repository, or community you agree to
 > abide by its terms.
 
